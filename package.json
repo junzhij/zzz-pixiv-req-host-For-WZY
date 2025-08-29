@@ -1,0 +1,14 @@
+{
+  "name": "zzz-pixiv-req-host-for-wzy",
+  "version": "1.0.0",
+  "description": "Write For WZY",
+  "license": "Apache-2.0",
+  "author": "Junzhi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
